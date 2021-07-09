@@ -4,5 +4,6 @@ def company():
 
 def location():
     print("bangalore")
- 
+
+
 print(company())
